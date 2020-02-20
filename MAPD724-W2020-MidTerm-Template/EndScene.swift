@@ -7,6 +7,8 @@ import GameplayKit
 
 // Name : Vishal K Chanchlani
 // Student No : 301090878
+// Test Date : 19 Feb 2020
+// https://github.com/vishalchanchlani/MAPD724-W2020-TestMidterm.git
 
 class EndScene: SKScene {
     
